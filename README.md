@@ -1,12 +1,17 @@
 
-<p align="center"><img width="128" height="128" src="./Stitch/img/knife.png"></p>
+<p align="center">
+<img width="128" height="128" src="./Stitch/img/knife.png">
+</p>
 
-# Stitch: Organize your steam accounts &amp; Quickly switch between them
+<p align="center">
+<img alt="GitHub" src="https://img.shields.io/github/license/aaronlyy/stitch">
+<img alt="GitHub" src="https://img.shields.io/badge/usable-not%20yet%20:3-red">
+</p>
 
-## What is Stitch
+# Stitch: Organize & Switch between Steam Accounts
 
 Stitch is a Steam account manager with the feature to directly login to the accounts.
-Stitch uses a local database to store the accounts & does not require an active internet connection at all, so you dont have to worry about your accounts getting leaked.
+For safety, Stitch uses a local database to store the accounts & does not require an active internet connection at all.
 
 ## Features
 
