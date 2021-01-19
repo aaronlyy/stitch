@@ -1,2 +1,33 @@
-# stich
-Organize your steam accounts &amp; quickly switch between them
+# stich: Organize your steam accounts &amp; Quickly switch between them
+
+![header](Stitch/img/knife.png)
+
+## What is Stitch
+
+Stitch is a Steam account manager with the feature to directly login to the accounts.
+Stitch uses a local database to store the accounts & does not require an active internet connection at all, so you dont have to worry about your accounts getting leaked.
+
+## Features
+
+* Add new accounts to the database
+* Delete accounts from the database
+* Edit accounts in the database
+* Login to an account with one click
+
+## Install Stitch
+
+### Installer
+
+Install Stitch with the installer
+
+### Build
+
+Build Stitch yourself
+
+## About
+
+Made with ♥ by github.com/aaronlyy
+
+## License
+
+Stitch is licensed under the GPL-3.0 License
