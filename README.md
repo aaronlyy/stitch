@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="128" height="128" src="./Stitch/img/knife.png">
+<img width="128" height="128" src="./media/knife.png">
 </p>
 
 <p align="center">
