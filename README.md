@@ -1,6 +1,7 @@
-# Stitch: Organize your steam accounts &amp; Quickly switch between them
 
 <p align="center"><img width="128" height="128" src="./Stitch/img/knife.png"></p>
+
+# Stitch: Organize your steam accounts &amp; Quickly switch between them
 
 ## What is Stitch
 
@@ -26,7 +27,7 @@ Build Stitch yourself
 
 ## About
 
-Made with ♥ by github.com/aaronlyy
+Made with ♥ by <https://github.com/aaronlyy>
 
 ## License
 
@@ -34,4 +35,4 @@ Stitch is licensed under the GPL-3.0 License
 
 ## Other
 
-Icons made by https://www.flaticon.com/authors/nikita-golubev
+Icons made by <https://www.flaticon.com/authors/nikita-golubev>
