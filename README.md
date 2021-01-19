@@ -10,15 +10,14 @@
 
 # Stitch: Organize & Switch between Steam Accounts
 
-Stitch is a Steam account manager with the feature to directly login to the accounts.
-For safety, Stitch uses a local database to store the accounts & does not require an active internet connection at all.
+Stitch is a Steam account manager with the ability to directly login to the accounts.
 
 ## Features
 
-* Add new accounts to the database
-* Delete accounts from the database
-* Edit accounts in the database
+* Add/Delete/Edit Accounts
 * Login to an account with one click
+* Import/Export accounts
+* Autologin
 
 ## Install Stitch
 
